@@ -5,8 +5,8 @@ if __name__ == '__main__':
     q.sort()#sorted it in ascending order
     print(q[len(q)-2])#print(q[-2])
 
-#Input (stdin)
+#Input 
 #5
 #2 3 6 6 5
-#Expected Output
+# Output
 #5
